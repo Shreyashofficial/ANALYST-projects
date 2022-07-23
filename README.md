@@ -1,2 +1,2 @@
 # ANALYST-projects
-Here I will be uploading my projects on data analyst
+Here I will be uploading my projects on data analysis
